@@ -8,6 +8,6 @@ class MyCustomClass
 {
     public function hello($name)
     {
-        return 'Hello ' . $name;
+        return 'Hellow ' . $name;
     }
 }
