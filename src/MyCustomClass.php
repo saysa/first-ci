@@ -13,6 +13,6 @@ class MyCustomClass
 
     public function calcul($a, $b)
     {
-        return $a + $b;
+        return $a + $b + $b;
     }
 }
