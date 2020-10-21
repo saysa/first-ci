@@ -8,6 +8,11 @@ class MyCustomClass
 {
     public function hello($name)
     {
-        return 'Hellow ' . $name;
+        return 'Hello ' . $name;
+    }
+
+    public function calcul($a, $b)
+    {
+        return $a + $b;
     }
 }
